@@ -1,5 +1,5 @@
 {
-  "type":"module",
+  "type": "module",
   "name": "backend1",
   "version": "1.0.0",
   "description": "",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/ws": "^8.18.1",
+    "chess.js": "^1.4.0",
     "typescript": "^5.9.3",
     "ws": "^8.19.0"
   }
